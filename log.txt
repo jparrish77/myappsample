@@ -1,1 +1,2 @@
 error logs
+Adding some log textAdding some log text
